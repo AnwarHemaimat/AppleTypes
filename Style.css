@@ -1,0 +1,40 @@
+nav{
+    border: 2px solid blue; height: 100px;
+    font-size: 30px;
+}
+img {
+    width: 200px;
+    height: 200px ;
+    
+  }
+ a {
+margin-right: 200px;
+
+    color: rgb(32, 18, 83);
+    text-shadow: 0.5px 0.5px blanchedalmond;
+    
+ }
+
+ body {
+    background-color:lightblue;
+ }
+ li{
+     float:left;
+     padding: 15px;
+ }
+
+ ul{
+     list-style: none;
+ }
+ div{
+     text-align: left;
+ }
+ h2{
+     text-align: right;
+ }
+ ol{
+     align-items: stretch;
+    width: 150px;
+    height: 150px ;
+ }
+
